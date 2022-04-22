@@ -71,7 +71,7 @@ function App() {
     </Router>
   );
 
-  // test comment
+  // test comment 2
 }
 
 export default App;
